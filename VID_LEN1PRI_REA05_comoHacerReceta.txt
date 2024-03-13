@@ -1,0 +1,6 @@
+﻿¡Vamos a ver cómo hacer una receta de cocina!
+En primer lugar, pon el título con el nombre del plato y si quieres, su origen.
+Para hacer una receta de cocina es muy importante hacer la lista de ingredientes necesarios para su elaboración, así como la cantidad necesaria de cada uno.
+Puedes añadir además una lista de utensilios, es decir, los objetos de cocina que son necesarios para hacer la receta.
+Una vez que hemos dejado claro los ingredientes y utensilios que vamos a necesitar, añadimos los pasos de elaboración de la receta en orden cronológico, desde lo que hacemos en primer lugar, hasta el final.
+Puedes incluir además el tiempo de preparación total y el grado de dificultad… ¡Igual necesitas pedir ayuda para realizarla!
